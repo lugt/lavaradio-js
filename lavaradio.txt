@@ -1,0 +1,1 @@
+_u = JSON.parse('{"uid":"276636","uname":"lu.gt","user_type":1,"vip_expires":0,"isVip":1,"pri_login":1,"pri_create_program":1,"pri_item_view":1,"pri_item_edit":1,"pri_audit_program":1,"pri_user_page":1,"pri_timer":1,"pri_sc":1,"pri_vod":1,"pri_qd":1,"pri_cp":1,"pri_lavahome_simple":1}');
